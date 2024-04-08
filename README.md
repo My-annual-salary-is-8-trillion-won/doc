@@ -193,6 +193,15 @@
 
 
 ### 🎨 Front-End  
+- React Native(0.73.4) : 이용자의 위치 정보 추적 및 안드로이드 앱의 원활한 구동 위해 React Native 사용
+- Typescript(5.1.3) : 정적 타입 안정성을 확보하고 props 가독성 확보 위해 Typescript 사용
+- Expo(50.0.14) : expo에서 제공하는 Geo Locaiton, Image Picker 등 네이티브 라이브러리 사용을 위해 Expo로 앱 생성
+- Recoil(0.7.7) : 전역 상태 관리를 위해 recoil 사용
+- Ascync Storage(---) : 로컬 스토리지 관리를 위해 Async Storage 사용
+- Node.js(20.10.0) : Javascript를 활용한 개발 환경으로 Node.js를 사용
+- ESLINT(8.2.0) : 코드 품질 향상 및 리팩토링 용이성을 위해 ESLINT 사용
+- Babel(---) : 폰트, 절대경로 등 전역 설정 및 JavaScript 문법 적용 위해 Babel 사용
+- axios(0.24.0) : 백 서버와 통신 위해 axios 사용
 
 
 ### 🖥 Back-End
