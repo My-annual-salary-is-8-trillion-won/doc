@@ -11,24 +11,55 @@
 
 
 # 1. 프로젝트 소개
+### 배경  
+
 ### 개요
 
-### 목적
-
 ### Repository
-![FE](https://github.com/)  
-![BE-CLOUD]()  
-![BE-USER]()  
-![BE-SNS]()  
-![BE-TRACKING]()  
-![BE-BIGDATA]()  
+|도메인|링크|
+|:--|:--|
+|화면|[FE](https://github.com/)|
+|회원|[BE-USER](https://github.com/mundeug/Back-User)|
+|SNS|[BE-SNS](https://github.com/mundeug/Back-SNS)|
+|산책로|[BE-TRACKING](https://github.com/mundeug/Back-Tracking)|
+|클라우드|[BE-CLOUD](https://github.com/mundeug/Back-Cloud)|
+|빅데이터|[BE-BIGDATA](https://github.com/mundeug/Back-BigData)|
 
 ### 시스템 아키텍처
 ![시스템아키텍처](img/image.png)
 
 
 # 2. 서비스 소개
-> 소개영상 : 
+> **회원 로그인**
+
+![로그인](img/회원로그인.gif)  
+
+> **산책 시작**
+
+![산책시작](img/산책경로.gif)
+
+> **산책 도중 24시간이 지나면 사라지는 핀 생성**
+
+![핀 생성](img/핀%20생성.gif)
+
+> **산책로 저장**
+
+![산책로저장](img/산책로%20저장.gif)  
+
+> **산책로 추천**
+
+![산책로추천](img/산책로추천.gif)  
+
+> **두드림길 (서울시 185개 공식 산책로)**
+
+![두드림길](img/두드림길.gif)  
+
+> **내 메인 피드화면**
+
+![메인피드](img/피드%20메인%20조회.gif)  
+
+
+
 
 # 3. 팀원 소개
 | [<img src="https://github.com/Yg-Hong.png" width="100" height="100" alt="홍윤기" />](https://github.com/Yg-Hong) | [<img src="https://github.com/hyeonjong-kim.png" width="100" height="100" alt="김현종" />](https://github.com/hyeonjong-kim) | [<img src="https://github.com/seroh00.png" width="100" height="100" alt="노성은" />](https://github.com/seroh00) | [<img src="https://github.com/parkgr95.png" width="100" height="100" alt="박기련" />](https://github.com/parkgr95) | [<img src="https://github.com/waterlee6.png" width="100" height="100" alt="이수민" />](https://github.com/waterlee6) | [<img src="https://github.com/hitobi1014.png" width="100" height="100" alt="최민준" />](https://github.com/hitobi1014) |
@@ -90,6 +121,7 @@
 - **홍윤기**
 - **김현종**
 - **노성은**
-- **박기련**
+- **박기련**  
+  열정적이고 유능한 팀원들을 만나 MSA 패턴을 경험하고, 특히 haddop, kafka 등 빅데이터 프레임워크와 Jenkins 등의 인프라를 배울 수 있었다는 점이 프로젝트에서 얻을 수 있었던 가장 큰 수확이었습니다.
 - **이수민**
-- **최민준**
+- **최민준**  
