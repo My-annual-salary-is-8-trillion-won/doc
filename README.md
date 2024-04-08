@@ -32,31 +32,31 @@
 # 2. 서비스 소개
 > **회원 로그인**
 
-<img src="img/회원로그인.gif" style="max-width:60%" alt="회원로그인"/>
+<img src="img/회원로그인.gif" width="400" alt="회원로그인"/>
 
 > **산책 시작**
 
-<img src="img/산책경로.gif" style="max-width:60%" alt="산책시작"/>
+<img src="img/산책경로.gif" width="400" alt="산책시작"/>
 
 > **산책 도중 24시간이 지나면 사라지는 핀 생성**
 
-<img src="img/핀%20생성.gif" style="max-width:60%" alt="핀 생성"/>
+<img src="img/핀%20생성.gif" width="400" alt="핀 생성"/>
 
 > **산책로 저장**
 
-<img src="img/산책로%20저장.gif" style="max-width:60%" alt="산책로저장"/>
+<img src="img/산책로%20저장.gif" width="400" alt="산책로저장"/>
 
 > **산책로 추천**
 
-<img src="img/산책로추천.gif" style="max-width:60%" alt="산책로추천"/>
+<img src="img/산책로추천.gif" width="400" alt="산책로추천"/>
 
 > **두드림길 (서울시 185개 공식 산책로)**
 
-<img src="img/두드림길.gif" style="max-width:60%" alt="두드림길"/>
+<img src="img/두드림길.gif" width="400" alt="두드림길"/>
 
 > **내 메인 피드화면**
 
-<img src="img/피드%20메인%20조회.gif" style="max-width:60%" alt="메인피드"/>
+<img src="img/피드%20메인%20조회.gif" width="400" alt="메인피드"/>
 
 
 
